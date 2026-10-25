@@ -1,0 +1,22 @@
+{
+  "name": "oliveboard-mock-exporter",
+  "version": "1.0.0",
+  "description": "Fast 1-click exporter and CLI extractor for Oliveboard mock test questions, answers, and solutions.",
+  "main": "extract_mock.js",
+  "bin": {
+    "extract-mock": "./extract_mock.js"
+  },
+  "scripts": {
+    "extract": "node extract_mock.js"
+  },
+  "keywords": [
+    "oliveboard",
+    "mock-test",
+    "scraper",
+    "parser",
+    "json-export",
+    "exam-prep"
+  ],
+  "author": "",
+  "license": "MIT"
+}

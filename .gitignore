@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large raw HTML dumps
+*.html
+*.htm
+
+# Real mock test dumps (prevent accidental check-in)
+mock_*.json
+*IBPS*.json
+
+# Logs
+*.log
